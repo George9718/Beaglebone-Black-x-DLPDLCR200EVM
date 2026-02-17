@@ -1,1 +1,1 @@
-# Beaglebone-Black-x-DLPDLCR200EVM
+# Beaglebone Black and DLPDLCR200EVM
